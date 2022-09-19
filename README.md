@@ -6,7 +6,7 @@ A full web app blog web app
 
   nodejs runtime - https://nodejs.org/en/download/ <br>
   
-  Run the following command in the CD to install a package.json: <br>
+  Run the following command in the CD to install all node_modules folder: <br>
   
       npm init -y 
    
