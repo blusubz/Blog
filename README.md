@@ -1,6 +1,6 @@
 # Blog
 
-A full web app blog web app  
+A full web app blog  
 
 ## Requirements:
 
